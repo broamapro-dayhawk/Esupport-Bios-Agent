@@ -190,4 +190,4 @@ This repository serves as the official landing page for eSupport BIOS Agent. The
 **Get the most recent version of eSupport BIOS Agent today!**
 
 ---
-**Last updated:** 2026-11-08 23:26:30 UTC
+**Last updated:** 2026-11-09 04:54:38 UTC
